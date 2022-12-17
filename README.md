@@ -1,6 +1,6 @@
 # Chatting-Between-Peers
 A simple chat program between two devices on the same network<br>
-##part One
+## part One<br>
 1- Run the file as a java project<br>
 2-In the Username field, put your name<br>
 3-In the Local IP field, put the IP of your device<br>
@@ -14,4 +14,4 @@ A simple chat program between two devices on the same network<br>
 🔴No need to fill in the rest of the fields<br>
 ّّّ
 ![image](https://user-images.githubusercontent.com/93814390/208264151-e66bcb33-5f44-42f9-b218-c0e94d78df91.png)
-##The second part
+## The second part
